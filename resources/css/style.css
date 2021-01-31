@@ -1,0 +1,22 @@
+body{
+    background-color: black;
+    text-align: center;
+}
+
+link{
+    color: aquamarine;
+    font-size: 16px;
+}
+
+h1{
+    color:white;
+    font-size: 50px;
+    font-family: Verdana;
+    font-weight: normal;
+}
+
+p{
+    font-family: Verdana;
+    font-size: 21px;
+    color: gray;
+}
